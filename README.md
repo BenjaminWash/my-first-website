@@ -1,4 +1,4 @@
-# My Very First Webe Page
+# My Very First Web Page
 
 Welcome!
 
